@@ -1,5 +1,3 @@
-package assg2;
-
 import java.util.Scanner;
 
 public class Q4 {
