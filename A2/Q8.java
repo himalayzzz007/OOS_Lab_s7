@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Q7 {
+public class Q8 {
     public static void main(String args[]){
         Scanner input = new Scanner(System.in);
         String s = input.nextLine();
